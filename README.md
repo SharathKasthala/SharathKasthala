@@ -2,7 +2,7 @@
 <h3 align="center">A Software Enthusiast from India</h3>
 <p align="centre" >👋 Hey there! I'm a Information Technology student at Sri Indu College of Engineering and Technology(SICET) passionate about technology and innovation. 💡 I thrive on solving complex problems and crafting creative solutions using my technical and analytical abilities. I'm always on the lookout for opportunities to learn and grow in the realms of Backend Development, Full Stack Development, and Competitive Programming.</p>
 <img align= "right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathkasthala&label=Profile%20views&color=0e75b6&style=flat" alt="sharathkasthala" /> </p>
+
 
 - 🌱 I’m currently learning **Data Analytics, Machine Learning**
 
