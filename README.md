@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sharath Chandra Kasthala</h1>
-<h3 align="center">Backend Engineer | Java & Spring Boot Developer from India</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer from India</h3>
 
 <p align="centre">
-👋 Hey there! I'm an Information Technology student at Sri Indu College of Engineering and Technology (SICET) with a strong interest in Backend Development and building scalable, reliable systems.  
+👋 Hey there! I'm an Information Technology student at Sri Indu College of Engineering and Technology (SICET) with a strong interest in Full Stack Development and building scalable, reliable systems.  
 💡 I enjoy designing RESTful APIs, working with databases, and solving complex problems using clean and efficient code.  
 🚀 Actively improving my skills in Java, Spring Boot, SQL, and system design while preparing for software engineering roles.
 </p>
